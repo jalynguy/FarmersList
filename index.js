@@ -1,5 +1,8 @@
 // Import Classes Here
-
+const Product = require('./classes/Product')
+const Cart = require('./classes/Cart')
+const Auth = require('./classes/Auth')
+const Customer = require('./classes/Customer')
 
 
 
